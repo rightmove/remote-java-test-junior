@@ -1,5 +1,5 @@
 package com.rightmove.property;
 
 class PropertyServiceImplTest {
-    //TODO write some test
+    //TODO write some tests
 }
